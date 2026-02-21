@@ -6,9 +6,9 @@
 
 ## Instalación
 
-```bash $ git clone https://github.com/SamaelAS/Subdominios```
+```bash $ git clone https://github.com/ViR-1/ViRdom```
 
-```bash $ cd ctfr```
+```bash $ cd ViRdom```
 
 ```bash $ pip3 install -r requirements.txt```
 
