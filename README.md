@@ -1,0 +1,2 @@
+# ViRdom
+Script Termux
